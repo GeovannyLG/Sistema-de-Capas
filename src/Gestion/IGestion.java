@@ -9,7 +9,7 @@ package Gestion;
 import java.sql.SQLException;
 
 /**
- * @author Darwin
+ * @author Geovanny
  */
 public interface IGestion {
     public void Grabar () throws SQLException;

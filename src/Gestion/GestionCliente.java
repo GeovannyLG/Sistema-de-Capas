@@ -15,7 +15,7 @@ import javax.swing.JTable;
 
 
 /**
- * @author Darwin
+ * @author Geovanny
  */
 public class GestionCliente implements IGestion
 {

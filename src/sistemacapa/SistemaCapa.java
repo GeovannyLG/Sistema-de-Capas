@@ -8,7 +8,7 @@ package sistemacapa;
 
 /**
  *
- * @author Darwin
+ * @author Geovanny
  */
 public class SistemaCapa {
 
